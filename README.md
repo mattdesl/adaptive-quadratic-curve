@@ -8,7 +8,7 @@ Builds a quadratic curve that is [adaptive](http://antigrain.com/research/adapti
 Also see [adaptive-bezier-curve](https://nodei.co/npm/adaptive-bezier-curve/).
 
 ```js
-var quadratic = requier('adaptive-quadratic-curve')
+var quadratic = require('adaptive-quadratic-curve')
 
 var start = [20, 20],
     c1 = [100, 159],
