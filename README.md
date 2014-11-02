@@ -3,7 +3,7 @@
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 
-Builds a quadratic curve that is [adaptive](http://antigrain.com/research/adaptive_bezier/); that is to say, it has more points along curved corners, and less points along straight lines. This can be used to produce scalable curves that are consistently smooth, while using a small number of steps.
+Builds a quadratic curve that is adaptive; that is to say, it has more points along curved corners, and less points along straight lines. This can be used to produce scalable curves that are consistently smooth, while using a small number of steps. Based on [AntiGrain](http://antigrain.com/research/adaptive_bezier/).
 
 Also see [adaptive-bezier-curve](https://nodei.co/npm/adaptive-bezier-curve/).
 
